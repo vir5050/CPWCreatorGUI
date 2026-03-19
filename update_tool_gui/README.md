@@ -1,6 +1,6 @@
-# ESO Update Tool GUI
+# Update Tool GUI
 
-Графическая утилита для создания обновлений игры **Ether Saga Odyssey**.
+Графическая утилита для создания обновлений игр на движке Angelica.
 
 ![Screenshot](docs/screenshot.png)
 
@@ -212,8 +212,3 @@ eso_update_tool_gui/
 ## Лицензия
 
 MIT License
-
-## Благодарности
-
-- Основано на анализе FWUpdateManager.jar (Java)
-- Совместимо с Your Launcher (C#)
