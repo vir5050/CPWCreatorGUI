@@ -189,7 +189,7 @@ PCK (Angelica File Package) — формат игровых архивов от 
 ### Структура проекта
 
 ```
-eso_update_tool_gui/
+update_tool_gui/
 ├── CMakeLists.txt          # Конфигурация CMake
 ├── build.sh                # Скрипт сборки
 ├── src/
